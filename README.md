@@ -1,5 +1,7 @@
 
-👋🏽Hey there! I'm Ricardo, a Biotechnologist and computational biologist from Colombia. Learn more about me [here](https://ricardorh96.github.io/ricardorivero-website/)
+<img align="center" src="coding_video_AdobeExpress.gif" width="700">
+
+👋🏽!Hey there! I'm Ricardo, a Biotechnologist and computational biologist from Colombia. Learn more about me [here](https://ricardorh96.github.io/ricardorivero-website/)
 
 I am currently a 👨🏽‍🎓 Ph.D. Student at Seifert Lab at Washington State University, I am also a Lighthouse Scholar at the [VERENA Project] (https://www.viralemergence.org/)
 
@@ -7,3 +9,4 @@ I am currently a 👨🏽‍🎓 Ph.D. Student at Seifert Lab at Washington Stat
 more research [here] (https://scholar.google.com/citations?hl=es&user=tz01w90AAAAJ&view_op=list_works&sortby=pubdate)
 
 💻In this repo you will find code for my research, my Julia learning journey and my passion for data science and visualization.
+
