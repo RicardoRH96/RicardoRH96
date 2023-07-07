@@ -1,5 +1,5 @@
 
-<img align="center" src="coding_video_AdobeExpress.gif" width="700">
+<img align="center" src="coding_video_AdobeExpress.gif" width="500">
 
 👋🏽!Hey there! I'm Ricardo, a Biotechnologist and computational biologist from Colombia. Learn more about me [here](https://ricardorh96.github.io/ricardorivero-website/)
 
