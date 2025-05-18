@@ -10,3 +10,7 @@ more research [here](https://scholar.google.com/citations?hl=es&user=tz01w90AAAA
 
 💻In this repo you will find code for my research, my Julia learning journey and my passion for data science and visualization.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoRH96&repo=github-readme-stats)](https://github.com/RicardoRH96/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRH96)](https://github.com/RicardoRH96/github-readme-stats)
+
