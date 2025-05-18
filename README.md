@@ -8,9 +8,15 @@ I am currently a 👨🏽‍🎓 Ph.D. Student at Seifert Lab at Washington Stat
 🦠My research interests include Arboviruses, Coronaviruses, and RNA viruses as a whole. I dream of a world where public health interventions will be precisely informed by data, shaping impactful policies that contain and control pathogens.
 more research [here](https://scholar.google.com/citations?hl=es&user=tz01w90AAAAJ&view_op=list_works&sortby=pubdate)
 
-💻In this repo you will find code for my research, my Julia learning journey and my passion for data science and visualization.
+💻In this repo you will find code for my research, and my passion for data science and visualization.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoRH96&repo=github-readme-stats)](https://github.com/RicardoRH96/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRH96)](https://github.com/RicardoRH96/github-readme-stats)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RicardoRH96&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRH96&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
